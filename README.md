@@ -1,6 +1,5 @@
-# Hello! Welcome to my Github profile.
+# Welcome to my Github profile
 
-### My name is Victor Leite!
 ### Control and Automation Engineer
 ### BI Consultant at Mesro Intelligence
 
@@ -13,7 +12,6 @@
 
 <div>
 <a href="https://www.youtube.com/@mesrointelligence" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:vrodrigoleite@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vrodrigoleite" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
